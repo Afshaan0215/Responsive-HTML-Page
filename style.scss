@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.cross {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+.navbar {
+    width: 500px;
+    margin: auto;
+}
+.navbar a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+.card {
+    box-shadow: 5px 5px 5px 5px rgba(179, 167, 167, 0.551);
+}
+.img1 {
+    max-width: 80%;
+}
+.img2 {
+    max-width: 80%;
+}
+.img3 {
+    max-width: 80%;
+    max-height: 219px;
+}
+.footer {
+    background-color: black;
+}
