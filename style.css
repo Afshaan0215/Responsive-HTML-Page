@@ -38,4 +38,11 @@
 .img3 {
   max-width: 80%;
   max-height: 219px;
+}
+
+.helplama {
+  height: 500vh;
+  background-color: black;
+  color: white;
+  width: 100%;
 }/*# sourceMappingURL=style.css.map */

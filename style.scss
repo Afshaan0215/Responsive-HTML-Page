@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body {
+    overflow: hidden;
+}
 .cross {
     display: block;
     margin-left: auto;
@@ -32,6 +35,9 @@
     max-width: 80%;
     max-height: 219px;
 }
-.footer {
+.helplama {
+    height: 500vh;
     background-color: black;
+    color: white;
+    width: 100%;
 }
